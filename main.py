@@ -1,7 +1,7 @@
 import streamlit as st
 import fitz  # PyMuPDF
 
-st.set_page_config(page_title="Resumo de PDF com IA", page_icon="📄")
+st.set_page_config(page_title="Resumo de PDF com IA", page_icon="")
 
 st.title(" Resumidor de PDF com Ia")
 st.write("Faça upload de um PDF e resuma com inteligência artificial.")

@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.set_page_config(page_title="Conteúdo extraído", page_icon="📝")
+st.set_page_config(page_title="Conteúdo extraído", page_icon="")
 
 st.title(" Conteúdo do PDF")
 
